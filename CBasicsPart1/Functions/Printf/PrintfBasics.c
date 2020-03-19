@@ -17,6 +17,7 @@ C does not move the cursor to the next line automatically when printf is execute
 \\ === Backslash
 \' === Single quotation mark
 \" === Double quotation mark
+\0 === String Terminator
 
 ==== CONVERSION CHARACTERS ====
 
